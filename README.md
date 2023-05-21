@@ -1,7 +1,7 @@
 
 # Optimize graph using linked list
 
-We implemented the given graph as a greedy database using a linked list and optimized it.
+We implemented the graph (see it in my jupyter notebook) as a greedy database using a linked list and optimized it.
 
 
 
