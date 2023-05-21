@@ -1,0 +1,20 @@
+console.suo
+# Python virtual environment
+venv/
+
+# Compiled Python files
+*.pyc
+
+# Matplotlib generated files
+*.png
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# NetworkX cache files
+*.json
+
+# NetworkX plot images
+*.svg
+*.pdf
+*.eps
