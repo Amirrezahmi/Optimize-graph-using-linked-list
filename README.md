@@ -22,3 +22,10 @@ In my jupyter notebook I explained everything needed to know for implementing.
 ## Used By
 
 This project is used by computer science students who are studying algorithms.
+
+# Contributing 
+Contributions are welcome! If you find any issues or have suggestions for improvement, please open an issue or submit a pull request.
+
+## License
+
+This project is licensed under the [MIT License](https://opensource.org/license/mit/).
